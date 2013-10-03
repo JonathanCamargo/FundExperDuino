@@ -1,3 +1,5 @@
+/*Basic serial comunication with arduino Sample for led activation*/
+
 int ledPin=13;
 
 void setup(){

@@ -1,4 +1,6 @@
-
+/*
+Reading and serial transmition for FreeScale differential pressure sensor: MPXV5010DP
+*/
 int ledpin=13;
 int analogPin=10;
 int voltaje=0;
