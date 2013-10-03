@@ -1,4 +1,4 @@
 FundExperDuino
 ==============
 
-Arduino scripts for Fundamentasl of experimentation course
+Arduino scripts for Fundamentals of experimentation course
